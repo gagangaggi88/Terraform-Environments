@@ -25,5 +25,10 @@ azuread_user = {
     display_name   = "Nayan Bhat"
     password       = "Layu046838"
   }
+  user5 = {
+    principal_name = "nayanbhat@gagandeepsharma2288outlook.onmicrosoft.com"
+    display_name   = "Nayan Bhat"
+    password       = "Layu046838"
+  }
 }
 

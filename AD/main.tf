@@ -1,4 +1,4 @@
 module "my_azure_module" {
-  source = "../../Terraform-Sourcecode/user"
+  source = "../../Terraform-Modules/user"
   azuread_user = var.azuread_user
 }

@@ -1,4 +1,4 @@
 module "resourcegroup" {
-  source        = "github.com/gagangaggi88/Terraform-Sourcecode/resourcegroup"
+  source        = "../../resource_group"
   resourcegroup = var.resourcegroup
 }
